@@ -3,3 +3,7 @@ git commit <file> -# to commit changes
 git push <file> -# to push to the repository
 git diff -# tell diff between previous snapshot and current
 git checkout -# matches the current fils to the previous version
+
+
+
+today we studied about github how to cfreate repository ,how to clone it to local machine, how to add , how to commit how to push , how to manage from github. we can use github to work on projects in a grp .
