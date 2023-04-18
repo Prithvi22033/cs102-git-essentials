@@ -1,0 +1,5 @@
+git add <file> -# to add untracked files 
+git commit <file> -# to commit changes
+git push <file> -# to push to the repository
+git diff -# tell diff between previous snapshot and current
+git checkout -# matches the current fils to the previous version
